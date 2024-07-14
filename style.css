@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(190, 240, 223);
+}
+td, th{
+    border: 1px dashed black;
+    width: 6vw;
+    height: 10vh;
+}
+.fa-solid, .fa-regular{
+    font-size: xx-large;
+}
+table{
+    border: 1px dashed black;
+    margin-top: 5vh;
+}
+.abc1{
+    background-color: rgb(247, 230, 137);
+}
+.abc2{
+    background-color: rgb(28, 129, 104);
+}
