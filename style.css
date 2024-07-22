@@ -3,6 +3,7 @@
 }
 td, th{
     border: 1px dashed black;
+    border-collapse: collapse;
     width: 6vw;
     height: 10vh;
 }
@@ -11,6 +12,7 @@ td, th{
 }
 table{
     border: 1px dashed black;
+    border-collapse: collapse;
     margin-top: 5vh;
 }
 .abc1{
